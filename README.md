@@ -52,8 +52,7 @@ The toolkit includes multiple modules:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/idlewatts.git
-cd idlewatts
+git clone ...
 
 # Set up virtual environment
 python -m venv energy_monitor_env
